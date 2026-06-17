@@ -1,4 +1,4 @@
-Objective: Achieve >65% t+1 directional accuracy on IDX short-term small/mid-cap setups using volume anomalies and social sentiment bursts.
+Objective: Achieve >65% t + 1 directional accuracy on IDX short-term small/mid-cap setups using volume anomalies and social sentiment bursts.
 
 KR1: Keep scraper runtime block rate below 5% through proxy rotation and randomized user agents.
 KR2: Reduce IndoBERT slang sentiment classification error on short-horizon social samples below 15%.

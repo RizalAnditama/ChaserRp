@@ -1,4 +1,4 @@
-Objective: Sustain >65% t+1 directional classification performance on IDX long-term daily strategies using integrated market and sentiment factors.
+Objective: Sustain >65% t + 1 directional classification performance on IDX long-term daily strategies using integrated market and sentiment factors.
 
 KR1: Ensure 100% ticker ingestion consistency with `.JK` suffix and daily `1d` market snapshots.
 KR2: Keep feature pipeline completeness at 100% for RSI-14, MACD, volume pct change, and daily returns.
